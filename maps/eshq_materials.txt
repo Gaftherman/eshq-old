@@ -224,5 +224,3 @@ T Wire01
 V Grate06
 V VentWall01
 V VentWall02
-
-N Snow01
